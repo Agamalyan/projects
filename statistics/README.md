@@ -51,7 +51,5 @@
 Используемые библиотеки:
 
 pandas \
-matplotlib.pyplot \
-seaborn \
-sqlalchemy \
-plotly
+scipy \
+seaborn
